@@ -1,0 +1,22 @@
+﻿  CFAR.cpp
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(25,53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(32,53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(42,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(43,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(59,86): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(63,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(213,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(250,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(260,69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(270,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(280,69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(288,69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(293,71): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\CFAR.cpp(373,81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Signal.cpp
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(25,53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(32,53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(42,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lucke\source\repos\cfar-algorithm-tester\src\Signal.cpp(43,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  cfar.vcxproj -> R:\Programowanie\cfar\cfar\x64\Debug\cfar.exe
